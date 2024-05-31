@@ -5,6 +5,7 @@
 #include <iostream>
 #include <span>
 #include <string>
+#include "socket.hh"
 
 using namespace std;
 
